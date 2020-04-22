@@ -1,5 +1,6 @@
-              
-              ![](notebooks/pic/logo.png)
+
+![](notebooks/pic/logo.png)
+
 ## About
 ### DJANGO-REST-FRAMEWORK TUTORIAL
 This project content of some notes about **Django-Rest-Framework** with examples
