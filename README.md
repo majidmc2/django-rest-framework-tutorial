@@ -1,5 +1,5 @@
               
-![](notebooks/pic/logo.png)
+              ![](notebooks/pic/logo.png)
 ## About
 ### DJANGO-REST-FRAMEWORK TUTORIAL
 This project content of some notes about **Django-Rest-Framework** with examples
@@ -18,6 +18,7 @@ At first you should clone the repository
 
 Then run jupyter
 > cd django-rest-framework-tutorial
+
 > jupyter-notebook
 
 You redirect to your default browser and you should open the netebooks directory after that you can open each lassen.
